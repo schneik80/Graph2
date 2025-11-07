@@ -1,0 +1,25 @@
+digraph "Front Shock v3" {
+    layout = "twopi";
+    node [width = .75; height = .5; fontsize = 8; fontname = helvetica; shape = box; style = rounded;];
+    ranksep = 2;
+    concentrate = true;
+    overlap = "false;";
+    splines = curved;
+    "Front Shock" [style = filled;fillcolor = lightskyblue;];
+    "Front Shock" -> "Front Shock Body";
+    "Front Shock" -> "Front Shock Shaft Assembly";
+    "Front Shock Shaft Assembly" -> "Front Shock Shaft";
+    "Front Shock Shaft Assembly" -> "Shock Piston 1mm x 3";
+    "Front Shock Shaft Assembly" -> "2.5-3mm OD Circlip External (1.61 ID)";
+    "Front Shock Shaft Assembly" -> "2.5-3mm OD Circlip External (1.61 ID)";
+    "Front Shock Shaft Assembly" -> "Shock Ball-end";
+    "Front Shock Shaft Assembly" -> "Shock Cup";
+    "Front Shock" -> "Shock Cartridge Assembly";
+    "Shock Cartridge Assembly" -> "Shock Cartridge Body";
+    "Shock Cartridge Assembly" -> "Shock O-Ring";
+    "Shock Cartridge Assembly" -> "Shock O-Ring";
+    "Shock Cartridge Assembly" -> "Shock Cartiridge Spacer";
+    "Shock Cartridge Assembly" -> "Shock Cartridge Cap";
+    "Front Shock" -> "Front Spring";
+    "Front Shock" -> "Shock Adjuster Nut";
+}

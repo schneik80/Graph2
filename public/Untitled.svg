@@ -1,0 +1,1009 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5196pt" height="854pt" viewBox="0.00 0.00 5196.16 854.00">
+<g id="graph0" class="graph" transform="translate(4,850) scale(1)" data-name="Chassis ASSY v45">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-850 5192.16,-850 5192.16,4 -4,4" style=""/>
+<!-- Chassis ASSY -->
+<g id="node1" class="node" pointer-events="visible" data-name="Chassis ASSY">
+
+<ellipse fill="lightskyblue" stroke="black" cx="3051.34" cy="-819" rx="40" ry="27" style=""/>
+<text text-anchor="middle" x="3051.34" y="-816.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Chassis ASSY</text>
+</g>
+<!-- Chassis -->
+<g id="node2" class="node" pointer-events="visible" data-name="Chassis">
+
+<ellipse fill="none" stroke="black" cx="750.34" cy="-621" rx="27" ry="27" style=""/>
+<text text-anchor="middle" x="750.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Chassis</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Chassis -->
+<g id="edge1" class="edge" data-name="Chassis ASSY-&gt;Chassis">
+
+<path fill="none" stroke="black" d="M3011.09,-817.95C2743.44,-817.17 1218.32,-805.78 786.34,-648 784.28,-647.25 782.23,-646.34 780.21,-645.32" style=""/>
+<polygon fill="black" stroke="black" points="782.22,-642.44 771.84,-640.28 778.61,-648.44 782.22,-642.44" style=""/>
+</g>
+<!-- Rear bulkhead -->
+<g id="node3" class="node" pointer-events="visible" data-name="Rear bulkhead">
+
+<ellipse fill="none" stroke="black" cx="835.34" cy="-621" rx="39.52" ry="27" style=""/>
+<text text-anchor="middle" x="835.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Rear bulkhead</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Rear bulkhead -->
+<g id="edge2" class="edge" data-name="Chassis ASSY-&gt;Rear bulkhead">
+
+<path fill="none" stroke="black" d="M3010.98,-817.07C2750.65,-810.76 1305.81,-770.59 884.34,-648 881.07,-647.05 877.77,-645.86 874.51,-644.53" style=""/>
+<polygon fill="black" stroke="black" points="876.24,-641.47 865.69,-640.48 873.32,-647.83 876.24,-641.47" style=""/>
+</g>
+<!-- Rear Chamber Link -->
+<g id="node4" class="node" pointer-events="visible" data-name="Rear Chamber Link">
+
+<ellipse fill="none" stroke="black" cx="943.34" cy="-621" rx="50.31" ry="27" style=""/>
+<text text-anchor="middle" x="943.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Rear Chamber Link</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Rear Chamber Link -->
+<g id="edge3" class="edge" data-name="Chassis ASSY-&gt;Rear Chamber Link">
+
+<path fill="none" stroke="black" d="M3011.58,-814.3C2753.65,-790.32 1318.49,-656.88 1004.18,-627.66" style=""/>
+<polygon fill="black" stroke="black" points="1004.83,-624.2 994.55,-626.76 1004.19,-631.17 1004.83,-624.2" style=""/>
+</g>
+<!-- ESC Tray -->
+<g id="node10" class="node" pointer-events="visible" data-name="ESC Tray">
+
+<ellipse fill="none" stroke="black" cx="2780.34" cy="-621" rx="29.18" ry="27" style=""/>
+<text text-anchor="middle" x="2780.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">ESC Tray</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;ESC Tray -->
+<g id="edge35" class="edge" data-name="Chassis ASSY-&gt;ESC Tray">
+
+<path fill="none" stroke="black" d="M3024.37,-798.49C2973.98,-762.04 2865.79,-683.8 2812.02,-644.91" style=""/>
+<polygon fill="black" stroke="black" points="2814.33,-642.26 2804.18,-639.24 2810.23,-647.93 2814.33,-642.26" style=""/>
+</g>
+<!-- Bulkhead&#45;Gearbox Mount -->
+<g id="node11" class="node" pointer-events="visible" data-name="Bulkhead-Gearbox Mount">
+
+<ellipse fill="none" stroke="black" cx="2891.34" cy="-621" rx="63.47" ry="27" style=""/>
+<text text-anchor="middle" x="2891.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Bulkhead-Gearbox Mount</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Bulkhead&#45;Gearbox Mount -->
+<g id="edge36" class="edge" data-name="Chassis ASSY-&gt;Bulkhead-Gearbox Mount">
+
+<path fill="none" stroke="black" d="M3032.36,-794.75C3004.18,-760.22 2951.12,-695.22 2918.73,-655.55" style=""/>
+<polygon fill="black" stroke="black" points="2921.55,-653.47 2912.52,-647.94 2916.13,-657.9 2921.55,-653.47" style=""/>
+</g>
+<!-- Gearbox ASSY -->
+<g id="node12" class="node" pointer-events="visible" data-name="Gearbox ASSY">
+
+<ellipse fill="none" stroke="black" cx="3051.34" cy="-621" rx="41.17" ry="27" style=""/>
+<text text-anchor="middle" x="3051.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Gearbox ASSY</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Gearbox ASSY -->
+<g id="edge37" class="edge" data-name="Chassis ASSY-&gt;Gearbox ASSY">
+
+<path fill="none" stroke="black" d="M3051.34,-791.57C3051.34,-757.57 3051.34,-698.31 3051.34,-659.62" style=""/>
+<polygon fill="black" stroke="black" points="3054.84,-659.84 3051.34,-649.84 3047.84,-659.84 3054.84,-659.84" style=""/>
+</g>
+<!-- Gear Box Brace -->
+<g id="node60" class="node" pointer-events="visible" data-name="Gear Box Brace">
+
+<ellipse fill="none" stroke="black" cx="3153.34" cy="-621" rx="42.87" ry="27" style=""/>
+<text text-anchor="middle" x="3153.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Gear Box Brace</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Gear Box Brace -->
+<g id="edge115" class="edge" data-name="Chassis ASSY-&gt;Gear Box Brace">
+
+<path fill="none" stroke="black" d="M3064.26,-793.18C3082.19,-758.74 3114.69,-696.28 3135.09,-657.09" style=""/>
+<polygon fill="black" stroke="black" points="3138.16,-658.76 3139.67,-648.27 3131.95,-655.53 3138.16,-658.76" style=""/>
+</g>
+<!-- Servo Mount L -->
+<g id="node61" class="node" pointer-events="visible" data-name="Servo Mount L">
+
+<ellipse fill="none" stroke="black" cx="3253.34" cy="-621" rx="39.51" ry="27" style=""/>
+<text text-anchor="middle" x="3253.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Servo Mount L</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Servo Mount L -->
+<g id="edge116" class="edge" data-name="Chassis ASSY-&gt;Servo Mount L">
+
+<path fill="none" stroke="black" d="M3073.73,-796.28C3110.08,-761.01 3181.97,-691.25 3222.92,-651.52" style=""/>
+<polygon fill="black" stroke="black" points="3225.34,-654.05 3230.08,-644.58 3220.46,-649.03 3225.34,-654.05" style=""/>
+</g>
+<!-- RC Car Short Servo -->
+<g id="node62" class="node" pointer-events="visible" data-name="RC Car Short Servo">
+
+<ellipse fill="none" stroke="black" cx="3362.34" cy="-621" rx="51.43" ry="27" style=""/>
+<text text-anchor="middle" x="3362.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">RC Car Short Servo</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;RC Car Short Servo -->
+<g id="edge118" class="edge" data-name="Chassis ASSY-&gt;RC Car Short Servo">
+
+<path fill="none" stroke="black" d="M3080.04,-799.91C3135.25,-765.12 3256.45,-688.74 3320.6,-648.31" style=""/>
+<polygon fill="black" stroke="black" points="3322.14,-651.47 3328.73,-643.18 3318.41,-645.55 3322.14,-651.47" style=""/>
+</g>
+<!-- Bell Crank ASSY -->
+<g id="node63" class="node" pointer-events="visible" data-name="Bell Crank ASSY">
+
+<ellipse fill="none" stroke="black" cx="1124.34" cy="-423" rx="44.64" ry="27" style=""/>
+<text text-anchor="middle" x="1124.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Bell Crank ASSY</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Bell Crank ASSY -->
+<g id="edge119" class="edge" data-name="Chassis ASSY-&gt;Bell Crank ASSY">
+
+<path fill="none" stroke="black" d="M3044.85,-792.11C3030.86,-738.56 2996.48,-618.59 2963.34,-594 2643.78,-356.83 1562.45,-554.08 1178.34,-450 1174.62,-448.99 1170.83,-447.73 1167.09,-446.3" style=""/>
+<polygon fill="black" stroke="black" points="1168.7,-443.18 1158.12,-442.54 1165.99,-449.64 1168.7,-443.18" style=""/>
+</g>
+<!-- Servo Horn ASSY -->
+<g id="node77" class="node" pointer-events="visible" data-name="Servo Horn ASSY">
+
+<ellipse fill="none" stroke="black" cx="4062.34" cy="-621" rx="46.91" ry="27" style=""/>
+<text text-anchor="middle" x="4062.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Servo Horn ASSY</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Servo Horn ASSY -->
+<g id="edge145" class="edge" data-name="Chassis ASSY-&gt;Servo Horn ASSY">
+
+<path fill="none" stroke="black" d="M3089.74,-810.56C3244.67,-780.52 3824.19,-668.17 4006.84,-632.76" style=""/>
+<polygon fill="black" stroke="black" points="4007.4,-636.22 4016.55,-630.88 4006.07,-629.35 4007.4,-636.22" style=""/>
+</g>
+<!-- Bulkhead -->
+<g id="node80" class="node" pointer-events="visible" data-name="Bulkhead">
+
+<ellipse fill="none" stroke="black" cx="4156.34" cy="-621" rx="28.6" ry="27" style=""/>
+<text text-anchor="middle" x="4156.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Bulkhead</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Bulkhead -->
+<g id="edge149" class="edge" data-name="Chassis ASSY-&gt;Bulkhead">
+
+<path fill="none" stroke="black" d="M3091.76,-817.85C3236.46,-816.04 3740.19,-798.61 4118.34,-648 4120.55,-647.12 4122.75,-646.1 4124.93,-644.97" style=""/>
+<polygon fill="black" stroke="black" points="4126.64,-648.02 4133.47,-639.92 4123.08,-642 4126.64,-648.02" style=""/>
+</g>
+<!-- Seeting Servo Tie Rod -->
+<g id="node81" class="node" pointer-events="visible" data-name="Seeting Servo Tie Rod">
+
+<ellipse fill="none" stroke="black" cx="5033.34" cy="-621" rx="56.66" ry="27" style=""/>
+<text text-anchor="middle" x="5033.34" y="-618.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Seeting Servo Tie Rod</text>
+</g>
+<!-- Chassis ASSY&#45;&gt;Seeting Servo Tie Rod -->
+<g id="edge150" class="edge" data-name="Chassis ASSY-&gt;Seeting Servo Tie Rod">
+
+<path fill="none" stroke="black" d="M3090.94,-814.08C3336.82,-789.77 4654.84,-659.43 4967.01,-628.56" style=""/>
+<polygon fill="black" stroke="black" points="4967.01,-632.08 4976.62,-627.61 4966.32,-625.11 4967.01,-632.08" style=""/>
+</g>
+<!-- Rear Chamber Link Rod -->
+<g id="node5" class="node" pointer-events="visible" data-name="Rear Chamber Link Rod">
+
+<ellipse fill="none" stroke="black" cx="597.34" cy="-423" rx="60.09" ry="27" style=""/>
+<text text-anchor="middle" x="597.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Rear Chamber Link Rod</text>
+</g>
+<!-- Rear Chamber Link&#45;&gt;Rear Chamber Link Rod -->
+<g id="edge4" class="edge" data-name="Rear Chamber Link-&gt;Rear Chamber Link Rod">
+
+<path fill="none" stroke="black" d="M909.22,-600.67C846.9,-565.37 714.61,-490.43 644.01,-450.44" style=""/>
+<polygon fill="black" stroke="black" points="645.81,-447.43 635.38,-445.55 642.36,-453.52 645.81,-447.43" style=""/>
+</g>
+<!-- Rear Chamber Link Spacer -->
+<g id="node6" class="node" pointer-events="visible" data-name="Rear Chamber Link Spacer">
+
+<ellipse fill="none" stroke="black" cx="742.34" cy="-423" rx="66.9" ry="27" style=""/>
+<text text-anchor="middle" x="742.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Rear Chamber Link Spacer</text>
+</g>
+<!-- Rear Chamber Link&#45;&gt;Rear Chamber Link Spacer -->
+<g id="edge5" class="edge" data-name="Rear Chamber Link-&gt;Rear Chamber Link Spacer">
+
+<path fill="none" stroke="black" d="M919.5,-596.75C883.77,-561.91 816.22,-496.04 775.65,-456.48" style=""/>
+<polygon fill="black" stroke="black" points="778.11,-453.98 768.5,-449.51 773.22,-459 778.11,-453.98" style=""/>
+</g>
+<!-- Suspension Ball End -->
+<g id="node7" class="node" pointer-events="visible" data-name="Suspension Ball End">
+
+<ellipse fill="none" stroke="black" cx="880.34" cy="-423" rx="52.67" ry="27" style=""/>
+<text text-anchor="middle" x="880.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Suspension Ball End</text>
+</g>
+<!-- Rear Chamber Link&#45;&gt;Suspension Ball End -->
+<g id="edge6" class="edge" data-name="Rear Chamber Link-&gt;Suspension Ball End">
+
+<path fill="none" stroke="black" d="M934.98,-593.97C924.01,-559.85 904.71,-499.79 892.23,-460.97" style=""/>
+<polygon fill="black" stroke="black" points="895.6,-460.03 889.21,-451.58 888.94,-462.17 895.6,-460.03" style=""/>
+</g>
+<!-- Suspension Ball 7mm -->
+<g id="node8" class="node" pointer-events="visible" data-name="Suspension Ball 7mm">
+
+<ellipse fill="none" stroke="black" cx="1006.34" cy="-423" rx="54.92" ry="27" style=""/>
+<text text-anchor="middle" x="1006.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Suspension Ball 7mm</text>
+</g>
+<!-- Rear Chamber Link&#45;&gt;Suspension Ball 7mm -->
+<g id="edge8" class="edge" data-name="Rear Chamber Link-&gt;Suspension Ball 7mm">
+
+<path fill="none" stroke="black" d="M951.71,-593.97C962.68,-559.85 981.98,-499.79 994.46,-460.97" style=""/>
+<polygon fill="black" stroke="black" points="997.75,-462.17 997.48,-451.58 991.09,-460.03 997.75,-462.17" style=""/>
+</g>
+<!-- 7mm ball bushing -->
+<g id="node9" class="node" pointer-events="visible" data-name="7mm ball bushing">
+
+<ellipse fill="none" stroke="black" cx="473.34" cy="-423" rx="46.31" ry="27" style=""/>
+<text text-anchor="middle" x="473.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">7mm ball bushing</text>
+</g>
+<!-- Rear Chamber Link&#45;&gt;7mm ball bushing -->
+<g id="edge10" class="edge" data-name="Rear Chamber Link-&gt;7mm ball bushing">
+
+<path fill="none" stroke="black" d="M905.33,-603.04C898.37,-600 891.15,-596.88 884.34,-594 727.12,-527.58 684.67,-518.5 528.34,-450 525.2,-448.62 521.98,-447.18 518.73,-445.71" style=""/>
+<polygon fill="black" stroke="black" points="520.34,-442.59 509.79,-441.58 517.4,-448.95 520.34,-442.59" style=""/>
+</g>
+<!-- Gearbox Layout -->
+<g id="node13" class="node" pointer-events="visible" data-name="Gearbox Layout">
+
+<ellipse fill="none" stroke="black" cx="1958.34" cy="-423" rx="42.88" ry="27" style=""/>
+<text text-anchor="middle" x="1958.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Gearbox Layout</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Gearbox Layout -->
+<g id="edge38" class="edge" data-name="Gearbox ASSY-&gt;Gearbox Layout">
+
+<path fill="none" stroke="black" d="M3019.99,-603.23C3012.42,-599.73 3004.23,-596.38 2996.34,-594 2574.54,-466.44 2438.01,-574.68 2015.34,-450 2010.83,-448.67 2006.2,-447.04 2001.64,-445.26" style=""/>
+<polygon fill="black" stroke="black" points="2003.17,-442.1 1992.59,-441.47 2000.46,-448.56 2003.17,-442.1" style=""/>
+</g>
+<!-- Diff -->
+<g id="node14" class="node" pointer-events="visible" data-name="Diff">
+
+<ellipse fill="none" stroke="black" cx="2084.34" cy="-423" rx="27" ry="27" style=""/>
+<text text-anchor="middle" x="2084.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Diff -->
+<g id="edge39" class="edge" data-name="Gearbox ASSY-&gt;Diff">
+
+<path fill="none" stroke="black" d="M3019.63,-603.31C3012.14,-599.85 3004.08,-596.5 2996.34,-594 2667.9,-487.72 2250.13,-440.24 2122.85,-427.6" style=""/>
+<polygon fill="black" stroke="black" points="2123.25,-424.12 2112.96,-426.63 2122.57,-431.09 2123.25,-424.12" style=""/>
+</g>
+<!-- Idler Gear ASSY -->
+<g id="node27" class="node" pointer-events="visible" data-name="Idler Gear ASSY">
+
+<ellipse fill="none" stroke="black" cx="2539.34" cy="-423" rx="44.04" ry="27" style=""/>
+<text text-anchor="middle" x="2539.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Idler Gear ASSY</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Idler Gear ASSY -->
+<g id="edge73" class="edge" data-name="Gearbox ASSY-&gt;Idler Gear ASSY">
+
+<path fill="none" stroke="black" d="M3018.72,-603.93C3011.42,-600.51 3003.66,-597.03 2996.34,-594 2820.18,-521.18 2767.97,-524.1 2592.34,-450 2589.23,-448.69 2586.05,-447.28 2582.85,-445.83" style=""/>
+<polygon fill="black" stroke="black" points="2584.63,-442.8 2574.09,-441.73 2581.67,-449.14 2584.63,-442.8" style=""/>
+</g>
+<!-- Top Gear -->
+<g id="node33" class="node" pointer-events="visible" data-name="Top Gear">
+
+<ellipse fill="none" stroke="black" cx="2630.34" cy="-423" rx="28.62" ry="27" style=""/>
+<text text-anchor="middle" x="2630.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Top Gear</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Top Gear -->
+<g id="edge81" class="edge" data-name="Gearbox ASSY-&gt;Top Gear">
+
+<path fill="none" stroke="black" d="M3018.55,-604.31C3011.26,-600.88 3003.55,-597.29 2996.34,-594 2851.47,-527.97 2807.53,-527.29 2668.34,-450 2666.4,-448.92 2664.44,-447.77 2662.48,-446.58" style=""/>
+<polygon fill="black" stroke="black" points="2664.39,-443.65 2654.09,-441.2 2660.61,-449.55 2664.39,-443.65" style=""/>
+</g>
+<!-- 6700H&#45;2RS 10 x 15 x 4mm Bearing -->
+<g id="node34" class="node" pointer-events="visible" data-name="6700H-2RS 10 x 15 x 4mm Bearing">
+
+<ellipse fill="none" stroke="black" cx="2761.34" cy="-423" rx="84.12" ry="27" style=""/>
+<text text-anchor="middle" x="2761.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">6700H-2RS 10 x 15 x 4mm Bearing</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;6700H&#45;2RS 10 x 15 x 4mm Bearing -->
+<g id="edge82" class="edge" data-name="Gearbox ASSY-&gt;6700H-2RS 10 x 15 x 4mm Bearing">
+
+<path fill="none" stroke="black" d="M3023.01,-600.85C2972.41,-566.65 2866.18,-494.86 2805.79,-454.04" style=""/>
+<polygon fill="black" stroke="black" points="2808.01,-451.31 2797.76,-448.61 2804.09,-457.11 2808.01,-451.31" style=""/>
+</g>
+<!-- Diff Case ASSY -->
+<g id="node35" class="node" pointer-events="visible" data-name="Diff Case ASSY">
+
+<ellipse fill="none" stroke="black" cx="2906.34" cy="-423" rx="42.33" ry="27" style=""/>
+<text text-anchor="middle" x="2906.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Case ASSY</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Diff Case ASSY -->
+<g id="edge84" class="edge" data-name="Gearbox ASSY-&gt;Diff Case ASSY">
+
+<path fill="none" stroke="black" d="M3033.85,-596.36C3008.05,-561.48 2959.7,-496.13 2930.52,-456.68" style=""/>
+<polygon fill="black" stroke="black" points="2933.56,-454.9 2924.8,-448.94 2927.93,-459.06 2933.56,-454.9" style=""/>
+</g>
+<!-- Motor Plate -->
+<g id="node38" class="node" pointer-events="visible" data-name="Motor Plate">
+
+<ellipse fill="none" stroke="black" cx="2999.34" cy="-423" rx="33.16" ry="27" style=""/>
+<text text-anchor="middle" x="2999.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Motor Plate</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Motor Plate -->
+<g id="edge87" class="edge" data-name="Gearbox ASSY-&gt;Motor Plate">
+
+<path fill="none" stroke="black" d="M3044.44,-593.97C3035.36,-559.76 3019.36,-499.46 3009.07,-460.64" style=""/>
+<polygon fill="black" stroke="black" points="3012.53,-460.05 3006.58,-451.29 3005.76,-461.85 3012.53,-460.05" style=""/>
+</g>
+<!-- 540 Brushless Motor -->
+<g id="node39" class="node" pointer-events="visible" data-name="540 Brushless Motor">
+
+<ellipse fill="none" stroke="black" cx="3103.34" cy="-423" rx="52.61" ry="27" style=""/>
+<text text-anchor="middle" x="3103.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">540 Brushless Motor</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;540 Brushless Motor -->
+<g id="edge88" class="edge" data-name="Gearbox ASSY-&gt;540 Brushless Motor">
+
+<path fill="none" stroke="black" d="M3058.25,-593.97C3067.3,-559.85 3083.24,-499.79 3093.54,-460.97" style=""/>
+<polygon fill="black" stroke="black" points="3096.84,-462.16 3096.02,-451.6 3090.07,-460.37 3096.84,-462.16" style=""/>
+</g>
+<!-- 18T Pinion -->
+<g id="node42" class="node" pointer-events="visible" data-name="18T Pinion">
+
+<ellipse fill="none" stroke="black" cx="3205.34" cy="-423" rx="31.47" ry="27" style=""/>
+<text text-anchor="middle" x="3205.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">18T Pinion</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;18T Pinion -->
+<g id="edge91" class="edge" data-name="Gearbox ASSY-&gt;18T Pinion">
+
+<path fill="none" stroke="black" d="M3069.61,-596.75C3097.35,-561.45 3150.11,-494.3 3181.05,-454.92" style=""/>
+<polygon fill="black" stroke="black" points="3183.68,-457.24 3187.11,-447.21 3178.18,-452.91 3183.68,-457.24" style=""/>
+</g>
+<!-- Spur Gear ASSY -->
+<g id="node44" class="node" pointer-events="visible" data-name="Spur Gear ASSY">
+
+<ellipse fill="none" stroke="black" cx="3299.34" cy="-423" rx="44.64" ry="27" style=""/>
+<text text-anchor="middle" x="3299.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Spur Gear ASSY</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Spur Gear ASSY -->
+<g id="edge93" class="edge" data-name="Gearbox ASSY-&gt;Spur Gear ASSY">
+
+<path fill="none" stroke="black" d="M3076.95,-599.76C3121.46,-564.59 3213.16,-492.12 3263.8,-452.09" style=""/>
+<polygon fill="black" stroke="black" points="3265.89,-454.9 3271.57,-445.95 3261.55,-449.41 3265.89,-454.9" style=""/>
+</g>
+<!-- Slipper Screw -->
+<g id="node49" class="node" pointer-events="visible" data-name="Slipper Screw">
+
+<ellipse fill="none" stroke="black" cx="3400.34" cy="-423" rx="38.29" ry="27" style=""/>
+<text text-anchor="middle" x="3400.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Slipper Screw</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Slipper Screw -->
+<g id="edge99" class="edge" data-name="Gearbox ASSY-&gt;Slipper Screw">
+
+<path fill="none" stroke="black" d="M3082.32,-602.61C3145.92,-566.89 3291.14,-485.33 3361.16,-446.01" style=""/>
+<polygon fill="black" stroke="black" points="3362.6,-449.21 3369.61,-441.26 3359.17,-443.11 3362.6,-449.21" style=""/>
+</g>
+<!-- slipper sping washer -->
+<g id="node50" class="node" pointer-events="visible" data-name="slipper sping washer">
+
+<ellipse fill="none" stroke="black" cx="3508.34" cy="-423" rx="52.09" ry="27" style=""/>
+<text text-anchor="middle" x="3508.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">slipper sping washer</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;slipper sping washer -->
+<g id="edge100" class="edge" data-name="Gearbox ASSY-&gt;slipper sping washer">
+
+<path fill="none" stroke="black" d="M3082.88,-603.08C3088.96,-599.97 3095.32,-596.82 3101.34,-594 3252.26,-523.51 3293.84,-514.66 3447.34,-450 3450.9,-448.5 3454.57,-446.95 3458.26,-445.39" style=""/>
+<polygon fill="black" stroke="black" points="3459.43,-448.69 3467.27,-441.56 3456.7,-442.25 3459.43,-448.69" style=""/>
+</g>
+<!-- Slipper Spring -->
+<g id="node51" class="node" pointer-events="visible" data-name="Slipper Spring">
+
+<ellipse fill="none" stroke="black" cx="3617.34" cy="-423" rx="38.87" ry="27" style=""/>
+<text text-anchor="middle" x="3617.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Slipper Spring</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Slipper Spring -->
+<g id="edge101" class="edge" data-name="Gearbox ASSY-&gt;Slipper Spring">
+
+<path fill="none" stroke="black" d="M3082.41,-602.75C3088.59,-599.63 3095.1,-596.56 3101.34,-594 3302.71,-511.46 3368.68,-534.24 3569.34,-450 3572.12,-448.84 3574.94,-447.56 3577.75,-446.22" style=""/>
+<polygon fill="black" stroke="black" points="3579.11,-449.46 3586.48,-441.84 3575.97,-443.2 3579.11,-449.46" style=""/>
+</g>
+<!-- Locknut M2.5 -->
+<g id="node52" class="node" pointer-events="visible" data-name="Locknut M2.5">
+
+<ellipse fill="none" stroke="black" cx="3711.34" cy="-423" rx="37.2" ry="27" style=""/>
+<text text-anchor="middle" x="3711.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Locknut M2.5</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Locknut M2.5 -->
+<g id="edge103" class="edge" data-name="Gearbox ASSY-&gt;Locknut M2.5">
+
+<path fill="none" stroke="black" d="M3082.04,-602.64C3088.31,-599.49 3094.95,-596.44 3101.34,-594 3343.03,-501.72 3425.3,-546.49 3665.34,-450 3668.12,-448.88 3670.94,-447.63 3673.74,-446.29" style=""/>
+<polygon fill="black" stroke="black" points="3675.07,-449.54 3682.36,-441.86 3671.87,-443.32 3675.07,-449.54" style=""/>
+</g>
+<!-- Spur Gear Cover &#45; Rear -->
+<g id="node53" class="node" pointer-events="visible" data-name="Spur Gear Cover - Rear">
+
+<ellipse fill="none" stroke="black" cx="3826.34" cy="-423" rx="59.48" ry="27" style=""/>
+<text text-anchor="middle" x="3826.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Spur Gear Cover - Rear</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Spur Gear Cover &#45; Rear -->
+<g id="edge104" class="edge" data-name="Gearbox ASSY-&gt;Spur Gear Cover - Rear">
+
+<path fill="none" stroke="black" d="M3081.98,-602.47C3088.25,-599.34 3094.91,-596.33 3101.34,-594 3381.97,-492.26 3471.16,-534.85 3757.34,-450 3762.1,-448.59 3766.99,-447.01 3771.88,-445.35" style=""/>
+<polygon fill="black" stroke="black" points="3772.8,-448.73 3781.07,-442.11 3770.47,-442.13 3772.8,-448.73" style=""/>
+</g>
+<!-- Spur Gear Cover &#45; Front -->
+<g id="node54" class="node" pointer-events="visible" data-name="Spur Gear Cover - Front">
+
+<ellipse fill="none" stroke="black" cx="3964.34" cy="-423" rx="60.08" ry="27" style=""/>
+<text text-anchor="middle" x="3964.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Spur Gear Cover - Front</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Spur Gear Cover &#45; Front -->
+<g id="edge105" class="edge" data-name="Gearbox ASSY-&gt;Spur Gear Cover - Front">
+
+<path fill="none" stroke="black" d="M3081.64,-602.41C3088,-599.25 3094.77,-596.25 3101.34,-594 3440.27,-478.07 3548.89,-544.73 3894.34,-450 3899.39,-448.62 3904.59,-447.02 3909.76,-445.32" style=""/>
+<polygon fill="black" stroke="black" points="3910.54,-448.75 3918.86,-442.19 3908.27,-442.13 3910.54,-448.75" style=""/>
+</g>
+<!-- Hexagon Socket Head Cap Screw ISO 4762 &#45; M3 x 6 Steel 4.6 Black -->
+<g id="node55" class="node" pointer-events="visible" data-name="Hexagon Socket Head Cap Screw ISO 4762 - M3 x 6 Steel 4.6 Black">
+
+<ellipse fill="none" stroke="black" cx="4197.34" cy="-423" rx="155.04" ry="27" style=""/>
+<text text-anchor="middle" x="4197.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Head Cap Screw ISO 4762 - M3 x 6 Steel 4.6 Black</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Hexagon Socket Head Cap Screw ISO 4762 &#45; M3 x 6 Steel 4.6 Black -->
+<g id="edge106" class="edge" data-name="Gearbox ASSY-&gt;Hexagon Socket Head Cap Screw ISO 4762 - M3 x 6 Steel 4.6 Black">
+
+<path fill="none" stroke="black" d="M3081.6,-602.28C3087.96,-599.12 3094.74,-596.16 3101.34,-594 3499.67,-463.58 3619.25,-514.81 4033.34,-450 4046.36,-447.96 4059.96,-445.82 4073.51,-443.69" style=""/>
+<polygon fill="black" stroke="black" points="4074.05,-447.14 4083.38,-442.13 4072.95,-440.23 4074.05,-447.14" style=""/>
+</g>
+<!-- ISO 7089 &#45; 3 Steel 100 HV Plain -->
+<g id="node56" class="node" pointer-events="visible" data-name="ISO 7089 - 3 Steel 100 HV Plain">
+
+<ellipse fill="none" stroke="black" cx="4447.34" cy="-423" rx="77.26" ry="27" style=""/>
+<text text-anchor="middle" x="4447.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">ISO 7089 - 3 Steel 100 HV Plain</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;ISO 7089 &#45; 3 Steel 100 HV Plain -->
+<g id="edge108" class="edge" data-name="Gearbox ASSY-&gt;ISO 7089 - 3 Steel 100 HV Plain">
+
+<path fill="none" stroke="black" d="M3081.53,-602.07C3087.9,-598.93 3094.7,-596.03 3101.34,-594 3640.37,-429.23 3809.35,-564.02 4361.34,-450 4367.8,-448.67 4374.47,-447.06 4381.11,-445.32" style=""/>
+<polygon fill="black" stroke="black" points="4382.03,-448.69 4390.75,-442.67 4380.18,-441.94 4382.03,-448.69" style=""/>
+</g>
+<!-- Hexagon Socket Countersunk Head Screw ISO 10642 &#45; M3 x 30 Steel 8.8 Black -->
+<g id="node57" class="node" pointer-events="visible" data-name="Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 30 Steel 8.8 Black">
+
+<ellipse fill="none" stroke="black" cx="1366.34" cy="-423" rx="178.54" ry="27" style=""/>
+<text text-anchor="middle" x="1366.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 30 Steel 8.8 Black</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Hexagon Socket Countersunk Head Screw ISO 10642 &#45; M3 x 30 Steel 8.8 Black -->
+<g id="edge110" class="edge" data-name="Gearbox ASSY-&gt;Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 30 Steel 8.8 Black">
+
+<path fill="none" stroke="black" d="M3020.06,-602.96C3012.49,-599.48 3004.28,-596.2 2996.34,-594 2375.7,-421.86 2193.91,-526.13 1554.34,-450 1538.24,-448.08 1521.38,-445.94 1504.65,-443.73" style=""/>
+<polygon fill="black" stroke="black" points="1505.56,-440.32 1495.18,-442.48 1504.63,-447.26 1505.56,-440.32" style=""/>
+</g>
+<!-- Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 30 Steel 4.6 Black -->
+<g id="node58" class="node" pointer-events="visible" data-name="Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 30 Steel 4.6 Black">
+
+<ellipse fill="none" stroke="black" cx="1730.34" cy="-423" rx="167.06" ry="27" style=""/>
+<text text-anchor="middle" x="1730.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 30 Steel 4.6 Black</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 30 Steel 4.6 Black -->
+<g id="edge111" class="edge" data-name="Gearbox ASSY-&gt;Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 30 Steel 4.6 Black">
+
+<path fill="none" stroke="black" d="M3020.01,-603.15C3012.44,-599.65 3004.25,-596.33 2996.34,-594 2527.6,-455.92 2390.28,-517.71 1906.34,-450 1892.08,-448 1877.18,-445.87 1862.34,-443.72" style=""/>
+<polygon fill="black" stroke="black" points="1862.92,-440.27 1852.52,-442.29 1861.91,-447.2 1862.92,-440.27" style=""/>
+</g>
+<!-- Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 6 Steel 4.6 Black -->
+<g id="node59" class="node" pointer-events="visible" data-name="Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 6 Steel 4.6 Black">
+
+<ellipse fill="none" stroke="black" cx="1388.34" cy="-27" rx="164.22" ry="27" style=""/>
+<text text-anchor="middle" x="1388.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 6 Steel 4.6 Black</text>
+</g>
+<!-- Gearbox ASSY&#45;&gt;Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 6 Steel 4.6 Black -->
+<g id="edge113" class="edge" data-name="Gearbox ASSY-&gt;Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 6 Steel 4.6 Black">
+
+<path fill="none" stroke="black" d="M3019.39,-603.55C3011.38,-599.95 3002.68,-596.48 2994.34,-594 2586.75,-472.59 2409.95,-673.86 2048.34,-450 2023.39,-434.55 2033.74,-413.71 2010.34,-396 1856.7,-279.67 1754.99,-368.33 1601.34,-252 1577.95,-234.29 1582.4,-220.32 1563.34,-198 1519.94,-147.15 1463.53,-94.37 1426.65,-61.38" style=""/>
+<polygon fill="black" stroke="black" points="1429.1,-58.88 1419.31,-54.85 1424.45,-64.11 1429.1,-58.88" style=""/>
+</g>
+<!-- Diff Plate -->
+<g id="node15" class="node" pointer-events="visible" data-name="Diff Plate">
+
+<ellipse fill="none" stroke="black" cx="1736.34" cy="-225" rx="28.02" ry="27" style=""/>
+<text text-anchor="middle" x="1736.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Plate</text>
+</g>
+<!-- Diff&#45;&gt;Diff Plate -->
+<g id="edge40" class="edge" data-name="Diff-&gt;Diff Plate">
+
+<path fill="none" stroke="black" d="M2061.97,-407.39C2055.98,-403.59 2049.46,-399.56 2043.34,-396 1925.83,-327.53 1889.2,-323.23 1773.34,-252 1771.49,-250.86 1769.6,-249.66 1767.71,-248.43" style=""/>
+<polygon fill="black" stroke="black" points="1769.86,-245.66 1759.61,-242.97 1765.94,-251.46 1769.86,-245.66" style=""/>
+</g>
+<!-- Diff Gear 52T -->
+<g id="node16" class="node" pointer-events="visible" data-name="Diff Gear 52T">
+
+<ellipse fill="none" stroke="black" cx="2117.34" cy="-225" rx="37.19" ry="27" style=""/>
+<text text-anchor="middle" x="2117.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Gear 52T</text>
+</g>
+<!-- Diff&#45;&gt;Diff Gear 52T -->
+<g id="edge41" class="edge" data-name="Diff-&gt;Diff Gear 52T">
+
+<path fill="none" stroke="black" d="M2088.73,-395.97C2094.45,-362 2104.5,-302.31 2111.04,-263.47" style=""/>
+<polygon fill="black" stroke="black" points="2114.48,-264.07 2112.69,-253.63 2107.58,-262.91 2114.48,-264.07" style=""/>
+</g>
+<!-- Diff Ball 2.5 mm -->
+<g id="node17" class="node" pointer-events="visible" data-name="Diff Ball 2.5 mm">
+
+<ellipse fill="none" stroke="black" cx="2215.34" cy="-225" rx="42.32" ry="27" style=""/>
+<text text-anchor="middle" x="2215.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Ball 2.5 mm</text>
+</g>
+<!-- Diff&#45;&gt;Diff Ball 2.5 mm -->
+<g id="edge43" class="edge" data-name="Diff-&gt;Diff Ball 2.5 mm">
+
+<path fill="none" stroke="black" d="M2099.12,-399.9C2121.99,-365.68 2166.12,-299.64 2192.94,-259.52" style=""/>
+<polygon fill="black" stroke="black" points="2195.71,-261.68 2198.35,-251.42 2189.89,-257.79 2195.71,-261.68" style=""/>
+</g>
+<!-- Diff Outdrive L -->
+<g id="node18" class="node" pointer-events="visible" data-name="Diff Outdrive L">
+
+<ellipse fill="none" stroke="black" cx="2315.34" cy="-225" rx="39.43" ry="27" style=""/>
+<text text-anchor="middle" x="2315.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Outdrive L</text>
+</g>
+<!-- Diff&#45;&gt;Diff Outdrive L -->
+<g id="edge55" class="edge" data-name="Diff-&gt;Diff Outdrive L">
+
+<path fill="none" stroke="black" d="M2104.44,-404.95C2144.33,-371.11 2233.83,-295.16 2282.43,-253.92" style=""/>
+<polygon fill="black" stroke="black" points="2284.5,-256.76 2289.86,-247.63 2279.97,-251.43 2284.5,-256.76" style=""/>
+</g>
+<!-- Diff Outdrive R -->
+<g id="node19" class="node" pointer-events="visible" data-name="Diff Outdrive R">
+
+<ellipse fill="none" stroke="black" cx="1650.34" cy="-225" rx="40.02" ry="27" style=""/>
+<text text-anchor="middle" x="1650.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Outdrive R</text>
+</g>
+<!-- Diff&#45;&gt;Diff Outdrive R -->
+<g id="edge56" class="edge" data-name="Diff-&gt;Diff Outdrive R">
+
+<path fill="none" stroke="black" d="M2062.19,-407C2056.19,-403.2 2049.62,-399.27 2043.34,-396 1896.39,-319.35 1849.15,-322.92 1699.34,-252 1696.62,-250.71 1693.83,-249.35 1691.04,-247.95" style=""/>
+<polygon fill="black" stroke="black" points="1692.81,-244.93 1682.32,-243.49 1689.62,-251.16 1692.81,-244.93" style=""/>
+</g>
+<!-- 5 x 8 x 3 mm Bearing -->
+<g id="node20" class="node" pointer-events="visible" data-name="5 x 8 x 3 mm Bearing">
+
+<ellipse fill="none" stroke="black" cx="1500.34" cy="-225" rx="53.78" ry="27" style=""/>
+<text text-anchor="middle" x="1500.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">5 x 8 x 3 mm Bearing</text>
+</g>
+<!-- Diff&#45;&gt;5 x 8 x 3 mm Bearing -->
+<g id="edge57" class="edge" data-name="Diff-&gt;5 x 8 x 3 mm Bearing">
+
+<path fill="none" stroke="black" d="M2059.03,-412.99C2044.76,-407.94 2026.58,-401.56 2010.34,-396 1845.31,-339.51 1649.41,-274.89 1555.68,-244.12" style=""/>
+<polygon fill="black" stroke="black" points="1556.8,-240.8 1546.2,-241.01 1554.62,-247.46 1556.8,-240.8" style=""/>
+</g>
+<!-- Diff Thrust Bearing -->
+<g id="node21" class="node" pointer-events="visible" data-name="Diff Thrust Bearing">
+
+<ellipse fill="none" stroke="black" cx="1831.34" cy="-225" rx="48.6" ry="27" style=""/>
+<text text-anchor="middle" x="1831.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Thrust Bearing</text>
+</g>
+<!-- Diff&#45;&gt;Diff Thrust Bearing -->
+<g id="edge59" class="edge" data-name="Diff-&gt;Diff Thrust Bearing">
+
+<path fill="none" stroke="black" d="M2063.21,-405.63C2020.1,-372.23 1921.57,-295.9 1867.87,-254.3" style=""/>
+<polygon fill="black" stroke="black" points="1870.27,-251.73 1860.22,-248.37 1865.98,-257.26 1870.27,-251.73" style=""/>
+</g>
+<!-- Diff Nut -->
+<g id="node25" class="node" pointer-events="visible" data-name="Diff Nut">
+
+<ellipse fill="none" stroke="black" cx="1925.34" cy="-225" rx="27" ry="27" style=""/>
+<text text-anchor="middle" x="1925.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Nut</text>
+</g>
+<!-- Diff&#45;&gt;Diff Nut -->
+<g id="edge71" class="edge" data-name="Diff-&gt;Diff Nut">
+
+<path fill="none" stroke="black" d="M2067.63,-401.4C2039.3,-366.47 1981.76,-295.55 1949.2,-255.41" style=""/>
+<polygon fill="black" stroke="black" points="1952.05,-253.36 1943.03,-247.8 1946.61,-257.77 1952.05,-253.36" style=""/>
+</g>
+<!-- Diff Thrust Spring -->
+<g id="node26" class="node" pointer-events="visible" data-name="Diff Thrust Spring">
+
+<ellipse fill="none" stroke="black" cx="2016.34" cy="-225" rx="45.76" ry="27" style=""/>
+<text text-anchor="middle" x="2016.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Thrust Spring</text>
+</g>
+<!-- Diff&#45;&gt;Diff Thrust Spring -->
+<g id="edge72" class="edge" data-name="Diff-&gt;Diff Thrust Spring">
+
+<path fill="none" stroke="black" d="M2075.73,-397.18C2063.93,-363.16 2042.65,-301.83 2029.03,-262.56" style=""/>
+<polygon fill="black" stroke="black" points="2032.4,-261.6 2025.81,-253.3 2025.79,-263.89 2032.4,-261.6" style=""/>
+</g>
+<!-- Diff Thrust Bearing Washer -->
+<g id="node22" class="node" pointer-events="visible" data-name="Diff Thrust Bearing Washer">
+
+<ellipse fill="none" stroke="black" cx="1831.34" cy="-27" rx="66.35" ry="27" style=""/>
+<text text-anchor="middle" x="1831.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Thrust Bearing Washer</text>
+</g>
+<!-- Diff Thrust Bearing&#45;&gt;Diff Thrust Bearing Washer -->
+<g id="edge60" class="edge" data-name="Diff Thrust Bearing-&gt;Diff Thrust Bearing Washer">
+
+<path fill="none" stroke="black" d="M1831.34,-197.57C1831.34,-163.57 1831.34,-104.31 1831.34,-65.62" style=""/>
+<polygon fill="black" stroke="black" points="1834.84,-65.84 1831.34,-55.84 1827.84,-65.84 1834.84,-65.84" style=""/>
+</g>
+<!-- Diff Thrust Bearing Ball -->
+<g id="node23" class="node" pointer-events="visible" data-name="Diff Thrust Bearing Ball">
+
+<ellipse fill="none" stroke="black" cx="1973.34" cy="-27" rx="57.78" ry="27" style=""/>
+<text text-anchor="middle" x="1973.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Thrust Bearing Ball</text>
+</g>
+<!-- Diff Thrust Bearing&#45;&gt;Diff Thrust Bearing Ball -->
+<g id="edge62" class="edge" data-name="Diff Thrust Bearing-&gt;Diff Thrust Bearing Ball">
+
+<path fill="none" stroke="black" d="M1849.04,-199.57C1874.16,-164.9 1920.27,-101.26 1948.72,-61.99" style=""/>
+<polygon fill="black" stroke="black" points="1951.28,-64.42 1954.31,-54.27 1945.61,-60.32 1951.28,-64.42" style=""/>
+</g>
+<!-- Diff Thrust Screw -->
+<g id="node24" class="node" pointer-events="visible" data-name="Diff Thrust Screw">
+
+<ellipse fill="none" stroke="black" cx="1701.34" cy="-27" rx="45.19" ry="27" style=""/>
+<text text-anchor="middle" x="1701.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Diff Thrust Screw</text>
+</g>
+<!-- Diff Thrust Bearing&#45;&gt;Diff Thrust Screw -->
+<g id="edge70" class="edge" data-name="Diff Thrust Bearing-&gt;Diff Thrust Screw">
+
+<path fill="none" stroke="black" d="M1814.88,-199.18C1791.83,-164.42 1749.85,-101.13 1723.9,-62.01" style=""/>
+<polygon fill="black" stroke="black" points="1726.96,-60.28 1718.51,-53.88 1721.12,-64.15 1726.96,-60.28" style=""/>
+</g>
+<!-- Ideler Gear -->
+<g id="node28" class="node" pointer-events="visible" data-name="Ideler Gear">
+
+<ellipse fill="none" stroke="black" cx="2635.34" cy="-225" rx="32.59" ry="27" style=""/>
+<text text-anchor="middle" x="2635.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Ideler Gear</text>
+</g>
+<!-- Idler Gear ASSY&#45;&gt;Ideler Gear -->
+<g id="edge74" class="edge" data-name="Idler Gear ASSY-&gt;Ideler Gear">
+
+<path fill="none" stroke="black" d="M2551.7,-396.78C2568.71,-362.04 2599.41,-299.36 2618.51,-260.36" style=""/>
+<polygon fill="black" stroke="black" points="2621.42,-262.39 2622.67,-251.87 2615.13,-259.31 2621.42,-262.39" style=""/>
+</g>
+<!-- idler shaft -->
+<g id="node29" class="node" pointer-events="visible" data-name="idler shaft">
+
+<ellipse fill="none" stroke="black" cx="2715.34" cy="-225" rx="29.19" ry="27" style=""/>
+<text text-anchor="middle" x="2715.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">idler shaft</text>
+</g>
+<!-- Idler Gear ASSY&#45;&gt;idler shaft -->
+<g id="edge75" class="edge" data-name="Idler Gear ASSY-&gt;idler shaft">
+
+<path fill="none" stroke="black" d="M2560.22,-398.75C2592.56,-362.73 2654.67,-293.57 2689.69,-254.57" style=""/>
+<polygon fill="black" stroke="black" points="2692.06,-257.17 2696.14,-247.39 2686.85,-252.49 2692.06,-257.17" style=""/>
+</g>
+<!-- idler shaft cross pin -->
+<g id="node30" class="node" pointer-events="visible" data-name="idler shaft cross pin">
+
+<ellipse fill="none" stroke="black" cx="2812.34" cy="-225" rx="49.77" ry="27" style=""/>
+<text text-anchor="middle" x="2812.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">idler shaft cross pin</text>
+</g>
+<!-- Idler Gear ASSY&#45;&gt;idler shaft cross pin -->
+<g id="edge76" class="edge" data-name="Idler Gear ASSY-&gt;idler shaft cross pin">
+
+<path fill="none" stroke="black" d="M2567.53,-401.76C2616.73,-366.44 2718.31,-293.51 2773.91,-253.6" style=""/>
+<polygon fill="black" stroke="black" points="2775.76,-256.57 2781.85,-247.9 2771.68,-250.88 2775.76,-256.57" style=""/>
+</g>
+<!-- idler shaft shim -->
+<g id="node31" class="node" pointer-events="visible" data-name="idler shaft shim">
+
+<ellipse fill="none" stroke="black" cx="2413.34" cy="-225" rx="40.63" ry="27" style=""/>
+<text text-anchor="middle" x="2413.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">idler shaft shim</text>
+</g>
+<!-- Idler Gear ASSY&#45;&gt;idler shaft shim -->
+<g id="edge77" class="edge" data-name="Idler Gear ASSY-&gt;idler shaft shim">
+
+<path fill="none" stroke="black" d="M2523.64,-397.57C2501.31,-362.83 2460.29,-299.02 2435.06,-259.78" style=""/>
+<polygon fill="black" stroke="black" points="2438.02,-257.91 2429.67,-251.39 2432.13,-261.7 2438.02,-257.91" style=""/>
+</g>
+<!-- 4 x 10 x 4 mm Bearing -->
+<g id="node32" class="node" pointer-events="visible" data-name="4 x 10 x 4 mm Bearing">
+
+<ellipse fill="none" stroke="black" cx="2528.34" cy="-225" rx="56.62" ry="27" style=""/>
+<text text-anchor="middle" x="2528.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">4 x 10 x 4 mm Bearing</text>
+</g>
+<!-- Idler Gear ASSY&#45;&gt;4 x 10 x 4 mm Bearing -->
+<g id="edge79" class="edge" data-name="Idler Gear ASSY-&gt;4 x 10 x 4 mm Bearing">
+
+<path fill="none" stroke="black" d="M2537.86,-395.57C2535.95,-361.57 2532.63,-302.31 2530.46,-263.62" style=""/>
+<polygon fill="black" stroke="black" points="2533.96,-263.63 2529.91,-253.84 2526.97,-264.02 2533.96,-263.63" style=""/>
+</g>
+<!-- Component1:1 -->
+<g id="node36" class="node" pointer-events="visible" data-name="Component1:1">
+
+<ellipse fill="none" stroke="black" cx="3018.34" cy="-225" rx="40.05" ry="27" style=""/>
+<text text-anchor="middle" x="3018.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Component1:1</text>
+</g>
+<!-- Diff Case ASSY&#45;&gt;Component1:1 -->
+<g id="edge85" class="edge" data-name="Diff Case ASSY-&gt;Component1:1">
+
+<path fill="none" stroke="black" d="M2920.53,-397.18C2940.31,-362.57 2976.25,-299.67 2998.62,-260.51" style=""/>
+<polygon fill="black" stroke="black" points="3001.6,-262.36 3003.52,-251.94 2995.52,-258.88 3001.6,-262.36" style=""/>
+</g>
+<!-- Component2:1 -->
+<g id="node37" class="node" pointer-events="visible" data-name="Component2:1">
+
+<ellipse fill="none" stroke="black" cx="2920.34" cy="-225" rx="40.05" ry="27" style=""/>
+<text text-anchor="middle" x="2920.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Component2:1</text>
+</g>
+<!-- Diff Case ASSY&#45;&gt;Component2:1 -->
+<g id="edge86" class="edge" data-name="Diff Case ASSY-&gt;Component2:1">
+
+<path fill="none" stroke="black" d="M2908.23,-395.57C2910.66,-361.57 2914.89,-302.31 2917.66,-263.62" style=""/>
+<polygon fill="black" stroke="black" points="2921.13,-264.06 2918.36,-253.84 2914.15,-263.56 2921.13,-264.06" style=""/>
+</g>
+<!-- Can:1 -->
+<g id="node40" class="node" pointer-events="visible" data-name="Can:1">
+
+<ellipse fill="none" stroke="black" cx="3175.34" cy="-225" rx="27" ry="27" style=""/>
+<text text-anchor="middle" x="3175.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Can:1</text>
+</g>
+<!-- 540 Brushless Motor&#45;&gt;Can:1 -->
+<g id="edge89" class="edge" data-name="540 Brushless Motor-&gt;Can:1">
+
+<path fill="none" stroke="black" d="M3112.9,-395.97C3125.58,-361.47 3147.99,-300.45 3162.24,-261.68" style=""/>
+<polygon fill="black" stroke="black" points="3165.51,-262.91 3165.68,-252.32 3158.94,-260.5 3165.51,-262.91" style=""/>
+</g>
+<!-- Shaft:1 -->
+<g id="node41" class="node" pointer-events="visible" data-name="Shaft:1">
+
+<ellipse fill="none" stroke="black" cx="3103.34" cy="-225" rx="27" ry="27" style=""/>
+<text text-anchor="middle" x="3103.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Shaft:1</text>
+</g>
+<!-- 540 Brushless Motor&#45;&gt;Shaft:1 -->
+<g id="edge90" class="edge" data-name="540 Brushless Motor-&gt;Shaft:1">
+
+<path fill="none" stroke="black" d="M3103.34,-395.57C3103.34,-361.57 3103.34,-302.31 3103.34,-263.62" style=""/>
+<polygon fill="black" stroke="black" points="3106.84,-263.84 3103.34,-253.84 3099.84,-263.84 3106.84,-263.84" style=""/>
+</g>
+<!-- Set Screw &#45; Cone Tip &#45; &#160;M3 x 3 -->
+<g id="node43" class="node" pointer-events="visible" data-name="Set Screw - Cone Tip -  M3 x 3">
+
+<ellipse fill="none" stroke="black" cx="3294.34" cy="-225" rx="74.32" ry="27" style=""/>
+<text text-anchor="middle" x="3294.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Set Screw - Cone Tip -  M3 x 3</text>
+</g>
+<!-- 18T Pinion&#45;&gt;Set Screw &#45; Cone Tip &#45; &#160;M3 x 3 -->
+<g id="edge92" class="edge" data-name="18T Pinion-&gt;Set Screw - Cone Tip -  M3 x 3">
+
+<path fill="none" stroke="black" d="M3216.44,-397.57C3231.89,-363.54 3260,-301.63 3277.9,-262.22" style=""/>
+<polygon fill="black" stroke="black" points="3280.97,-263.92 3281.92,-253.36 3274.6,-261.02 3280.97,-263.92" style=""/>
+</g>
+<!-- Spur Gear 86t -->
+<g id="node45" class="node" pointer-events="visible" data-name="Spur Gear 86t">
+
+<ellipse fill="none" stroke="black" cx="3752.34" cy="-225" rx="38.87" ry="27" style=""/>
+<text text-anchor="middle" x="3752.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Spur Gear 86t</text>
+</g>
+<!-- Spur Gear ASSY&#45;&gt;Spur Gear 86t -->
+<g id="edge94" class="edge" data-name="Spur Gear ASSY-&gt;Spur Gear 86t">
+
+<path fill="none" stroke="black" d="M3333.48,-405.19C3340.04,-402.06 3346.88,-398.88 3353.34,-396 3507.37,-327.4 3551.99,-324.26 3704.34,-252 3707.06,-250.71 3709.84,-249.34 3712.63,-247.94" style=""/>
+<polygon fill="black" stroke="black" points="3714.04,-251.15 3721.3,-243.43 3710.81,-244.93 3714.04,-251.15" style=""/>
+</g>
+<!-- Slipper Pad -->
+<g id="node46" class="node" pointer-events="visible" data-name="Slipper Pad">
+
+<ellipse fill="none" stroke="black" cx="3420.34" cy="-225" rx="33.2" ry="27" style=""/>
+<text text-anchor="middle" x="3420.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Slipper Pad</text>
+</g>
+<!-- Spur Gear ASSY&#45;&gt;Slipper Pad -->
+<g id="edge95" class="edge" data-name="Spur Gear ASSY-&gt;Slipper Pad">
+
+<path fill="none" stroke="black" d="M3314.67,-397.18C3336.26,-362.21 3375.67,-298.37 3399.78,-259.31" style=""/>
+<polygon fill="black" stroke="black" points="3402.64,-261.34 3404.91,-250.99 3396.68,-257.66 3402.64,-261.34" style=""/>
+</g>
+<!-- slipper disk inboard -->
+<g id="node47" class="node" pointer-events="visible" data-name="slipper disk inboard">
+
+<ellipse fill="none" stroke="black" cx="3521.34" cy="-225" rx="49.78" ry="27" style=""/>
+<text text-anchor="middle" x="3521.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">slipper disk inboard</text>
+</g>
+<!-- Spur Gear ASSY&#45;&gt;slipper disk inboard -->
+<g id="edge97" class="edge" data-name="Spur Gear ASSY-&gt;slipper disk inboard">
+
+<path fill="none" stroke="black" d="M3323.95,-400.28C3363.74,-365.14 3442.31,-295.78 3487.4,-255.97" style=""/>
+<polygon fill="black" stroke="black" points="3489.63,-258.67 3494.81,-249.43 3485,-253.42 3489.63,-258.67" style=""/>
+</g>
+<!-- slipper disk outboard -->
+<g id="node48" class="node" pointer-events="visible" data-name="slipper disk outboard">
+
+<ellipse fill="none" stroke="black" cx="3642.34" cy="-225" rx="52.66" ry="27" style=""/>
+<text text-anchor="middle" x="3642.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">slipper disk outboard</text>
+</g>
+<!-- Spur Gear ASSY&#45;&gt;slipper disk outboard -->
+<g id="edge98" class="edge" data-name="Spur Gear ASSY-&gt;slipper disk outboard">
+
+<path fill="none" stroke="black" d="M3331.3,-403.74C3392.81,-368.59 3527.73,-291.49 3597.93,-251.38" style=""/>
+<polygon fill="black" stroke="black" points="3599.54,-254.49 3606.49,-246.49 3596.07,-248.41 3599.54,-254.49" style=""/>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;5 x 8 x 3 mm Bearing -->
+<g id="edge131" class="edge" data-name="Bell Crank ASSY-&gt;5 x 8 x 3 mm Bearing">
+
+<path fill="none" stroke="black" d="M1157.71,-404.61C1224.97,-369.55 1376.93,-290.33 1453.86,-250.23" style=""/>
+<polygon fill="black" stroke="black" points="1455.16,-253.5 1462.41,-245.77 1451.93,-247.29 1455.16,-253.5" style=""/>
+</g>
+<!-- Steering Plate ASSY -->
+<g id="node64" class="node" pointer-events="visible" data-name="Steering Plate ASSY">
+
+<ellipse fill="none" stroke="black" cx="987.34" cy="-225" rx="52.66" ry="27" style=""/>
+<text text-anchor="middle" x="987.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Steering Plate ASSY</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Steering Plate ASSY -->
+<g id="edge120" class="edge" data-name="Bell Crank ASSY-&gt;Steering Plate ASSY">
+
+<path fill="none" stroke="black" d="M1107.27,-397.57C1083.07,-362.95 1038.68,-299.45 1011.23,-260.17" style=""/>
+<polygon fill="black" stroke="black" points="1014.1,-258.17 1005.5,-251.98 1008.36,-262.18 1014.1,-258.17" style=""/>
+</g>
+<!-- Bellcrank R -->
+<g id="node69" class="node" pointer-events="visible" data-name="Bellcrank R">
+
+<ellipse fill="none" stroke="black" cx="1091.34" cy="-225" rx="33.15" ry="27" style=""/>
+<text text-anchor="middle" x="1091.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Bellcrank R</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Bellcrank R -->
+<g id="edge128" class="edge" data-name="Bell Crank ASSY-&gt;Bellcrank R">
+
+<path fill="none" stroke="black" d="M1119.96,-395.97C1114.24,-362 1104.19,-302.31 1097.65,-263.47" style=""/>
+<polygon fill="black" stroke="black" points="1101.11,-262.91 1096,-253.63 1094.2,-264.07 1101.11,-262.91" style=""/>
+</g>
+<!-- Bellcrank L -->
+<g id="node70" class="node" pointer-events="visible" data-name="Bellcrank L">
+
+<ellipse fill="none" stroke="black" cx="1174.34" cy="-225" rx="32.06" ry="27" style=""/>
+<text text-anchor="middle" x="1174.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Bellcrank L</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Bellcrank L -->
+<g id="edge129" class="edge" data-name="Bell Crank ASSY-&gt;Bellcrank L">
+
+<path fill="none" stroke="black" d="M1130.98,-395.97C1139.71,-361.76 1155.09,-301.46 1165,-262.64" style=""/>
+<polygon fill="black" stroke="black" points="1168.3,-263.84 1167.38,-253.29 1161.52,-262.11 1168.3,-263.84" style=""/>
+</g>
+<!-- .1875 Ball Stud .315in -->
+<g id="node71" class="node" pointer-events="visible" data-name=".1875 Ball Stud .315in">
+
+<ellipse fill="none" stroke="black" cx="1280.34" cy="-225" rx="55.51" ry="27" style=""/>
+<text text-anchor="middle" x="1280.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">.1875 Ball Stud .315in</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;.1875 Ball Stud .315in -->
+<g id="edge130" class="edge" data-name="Bell Crank ASSY-&gt;.1875 Ball Stud .315in">
+
+<path fill="none" stroke="black" d="M1143.16,-398.36C1170.69,-363.76 1222.1,-299.18 1253.56,-259.65" style=""/>
+<polygon fill="black" stroke="black" points="1256.29,-261.84 1259.78,-251.83 1250.82,-257.48 1256.29,-261.84" style=""/>
+</g>
+<!-- Steering Post -->
+<g id="node72" class="node" pointer-events="visible" data-name="Steering Post">
+
+<ellipse fill="none" stroke="black" cx="1391.34" cy="-225" rx="37.2" ry="27" style=""/>
+<text text-anchor="middle" x="1391.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Steering Post</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Steering Post -->
+<g id="edge135" class="edge" data-name="Bell Crank ASSY-&gt;Steering Post">
+
+<path fill="none" stroke="black" d="M1152.16,-401.58C1201.18,-365.6 1302.8,-291 1356.44,-251.62" style=""/>
+<polygon fill="black" stroke="black" points="1358.35,-254.56 1364.34,-245.82 1354.21,-248.92 1358.35,-254.56" style=""/>
+</g>
+<!-- 5 X .5mm Shim -->
+<g id="node73" class="node" pointer-events="visible" data-name="5 X .5mm Shim">
+
+<ellipse fill="none" stroke="black" cx="41.34" cy="-225" rx="41.19" ry="27" style=""/>
+<text text-anchor="middle" x="41.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">5 X .5mm Shim</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;5 X .5mm Shim -->
+<g id="edge136" class="edge" data-name="Bell Crank ASSY-&gt;5 X .5mm Shim">
+
+<path fill="none" stroke="black" d="M1091.57,-404.28C1084.71,-401.13 1077.41,-398.17 1070.34,-396 650.28,-267.23 510.91,-385.54 92.34,-252 89.04,-250.95 85.69,-249.7 82.37,-248.33" style=""/>
+<polygon fill="black" stroke="black" points="83.88,-245.17 73.32,-244.24 81,-251.55 83.88,-245.17" style=""/>
+</g>
+<!-- Bellcrank Post Cap -->
+<g id="node74" class="node" pointer-events="visible" data-name="Bellcrank Post Cap">
+
+<ellipse fill="none" stroke="black" cx="150.34" cy="-225" rx="49.21" ry="27" style=""/>
+<text text-anchor="middle" x="150.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Bellcrank Post Cap</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Bellcrank Post Cap -->
+<g id="edge139" class="edge" data-name="Bell Crank ASSY-&gt;Bellcrank Post Cap">
+
+<path fill="none" stroke="black" d="M1091.53,-404.39C1084.67,-401.23 1077.39,-398.23 1070.34,-396 700.53,-278.67 581.08,-363.09 209.34,-252 205.36,-250.81 201.28,-249.41 197.23,-247.9" style=""/>
+<polygon fill="black" stroke="black" points="198.62,-244.69 188.04,-244.24 196.03,-251.19 198.62,-244.69" style=""/>
+</g>
+<!-- Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 8 Steel 4.6 Black -->
+<g id="node75" class="node" pointer-events="visible" data-name="Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 8 Steel 4.6 Black">
+
+<ellipse fill="none" stroke="black" cx="382.34" cy="-225" rx="164.22" ry="27" style=""/>
+<text text-anchor="middle" x="382.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 8 Steel 4.6 Black</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 8 Steel 4.6 Black -->
+<g id="edge141" class="edge" data-name="Bell Crank ASSY-&gt;Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 8 Steel 4.6 Black">
+
+<path fill="none" stroke="black" d="M1091.1,-404.68C1084.34,-401.53 1077.2,-398.47 1070.34,-396 876.19,-326.12 641.15,-274.84 502.12,-247.78" style=""/>
+<polygon fill="black" stroke="black" points="503.01,-244.39 492.53,-245.92 501.68,-251.26 503.01,-244.39" style=""/>
+</g>
+<!-- Hexagon Socket Countersunk Head Screw ISO 10642 &#45; M3 x 8 Steel 8.8 Black -->
+<g id="node76" class="node" pointer-events="visible" data-name="Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 8 Steel 8.8 Black">
+
+<ellipse fill="none" stroke="black" cx="740.34" cy="-225" rx="176.2" ry="27" style=""/>
+<text text-anchor="middle" x="740.34" y="-222.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 8 Steel 8.8 Black</text>
+</g>
+<!-- Bell Crank ASSY&#45;&gt;Hexagon Socket Countersunk Head Screw ISO 10642 &#45; M3 x 8 Steel 8.8 Black -->
+<g id="edge143" class="edge" data-name="Bell Crank ASSY-&gt;Hexagon Socket Countersunk Head Screw ISO 10642 - M3 x 8 Steel 8.8 Black">
+
+<path fill="none" stroke="black" d="M1090.6,-404.78C1025.49,-371.54 881.74,-298.17 800.08,-256.49" style=""/>
+<polygon fill="black" stroke="black" points="801.8,-253.44 791.3,-252.01 798.62,-259.67 801.8,-253.44" style=""/>
+</g>
+<!-- Steering Plate ASSY&#45;&gt;Hexagon Socket Button Head Screw ISO 7380&#45;1 &#45; M3 x 6 Steel 4.6 Black -->
+<g id="edge127" class="edge" data-name="Steering Plate ASSY-&gt;Hexagon Socket Button Head Screw ISO 7380-1 - M3 x 6 Steel 4.6 Black">
+
+<path fill="none" stroke="black" d="M1024.71,-205.74C1093.95,-171.89 1242.81,-99.13 1327.02,-57.97" style=""/>
+<polygon fill="black" stroke="black" points="1328.4,-61.19 1335.85,-53.66 1325.33,-54.9 1328.4,-61.19" style=""/>
+</g>
+<!-- .1875 Ball Stud .1875 -->
+<g id="node65" class="node" pointer-events="visible" data-name=".1875 Ball Stud .1875">
+
+<ellipse fill="none" stroke="black" cx="918.34" cy="-27" rx="54.38" ry="27" style=""/>
+<text text-anchor="middle" x="918.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">.1875 Ball Stud .1875</text>
+</g>
+<!-- Steering Plate ASSY&#45;&gt;.1875 Ball Stud .1875 -->
+<g id="edge121" class="edge" data-name="Steering Plate ASSY-&gt;.1875 Ball Stud .1875">
+
+<path fill="none" stroke="black" d="M978.18,-197.97C966.14,-163.76 944.91,-103.46 931.24,-64.64" style=""/>
+<polygon fill="black" stroke="black" points="934.56,-63.52 927.94,-55.25 927.96,-65.85 934.56,-63.52" style=""/>
+</g>
+<!-- Steering Plate -->
+<g id="node66" class="node" pointer-events="visible" data-name="Steering Plate">
+
+<ellipse fill="none" stroke="black" cx="1029.34" cy="-27" rx="38.88" ry="27" style=""/>
+<text text-anchor="middle" x="1029.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Steering Plate</text>
+</g>
+<!-- Steering Plate ASSY&#45;&gt;Steering Plate -->
+<g id="edge122" class="edge" data-name="Steering Plate ASSY-&gt;Steering Plate">
+
+<path fill="none" stroke="black" d="M992.92,-197.97C1000.23,-163.85 1013.1,-103.79 1021.42,-64.97" style=""/>
+<polygon fill="black" stroke="black" points="1024.75,-66.13 1023.43,-55.61 1017.91,-64.66 1024.75,-66.13" style=""/>
+</g>
+<!-- 3 x 6 x 2.5mm -->
+<g id="node67" class="node" pointer-events="visible" data-name="3 x 6 x 2.5mm">
+
+<ellipse fill="none" stroke="black" cx="1124.34" cy="-27" rx="38.86" ry="27" style=""/>
+<text text-anchor="middle" x="1124.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">3 x 6 x 2.5mm</text>
+</g>
+<!-- Steering Plate ASSY&#45;&gt;3 x 6 x 2.5mm -->
+<g id="edge124" class="edge" data-name="Steering Plate ASSY-&gt;3 x 6 x 2.5mm">
+
+<path fill="none" stroke="black" d="M1004.69,-199.18C1029.19,-164.14 1073.95,-100.1 1101.24,-61.06" style=""/>
+<polygon fill="black" stroke="black" points="1104.05,-63.15 1106.91,-52.95 1098.31,-59.14 1104.05,-63.15" style=""/>
+</g>
+<!-- 2mm Plastic Shim -->
+<g id="node68" class="node" pointer-events="visible" data-name="2mm Plastic Shim">
+
+<ellipse fill="none" stroke="black" cx="799.34" cy="-27" rx="46.89" ry="27" style=""/>
+<text text-anchor="middle" x="799.34" y="-24.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">2mm Plastic Shim</text>
+</g>
+<!-- Steering Plate ASSY&#45;&gt;2mm Plastic Shim -->
+<g id="edge126" class="edge" data-name="Steering Plate ASSY-&gt;2mm Plastic Shim">
+
+<path fill="none" stroke="black" d="M964.67,-200.36C930.75,-165 866.78,-98.3 829.13,-59.06" style=""/>
+<polygon fill="black" stroke="black" points="832.01,-57 822.57,-52.21 826.96,-61.85 832.01,-57" style=""/>
+</g>
+<!-- Hexagon Socket Head Cap Screw ISO 4762 &#45; M2 x 6 Steel 4.6 Black -->
+<g id="node78" class="node" pointer-events="visible" data-name="Hexagon Socket Head Cap Screw ISO 4762 - M2 x 6 Steel 4.6 Black">
+
+<ellipse fill="none" stroke="black" cx="4697.34" cy="-423" rx="155.04" ry="27" style=""/>
+<text text-anchor="middle" x="4697.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Hexagon Socket Head Cap Screw ISO 4762 - M2 x 6 Steel 4.6 Black</text>
+</g>
+<!-- Servo Horn ASSY&#45;&gt;Hexagon Socket Head Cap Screw ISO 4762 &#45; M2 x 6 Steel 4.6 Black -->
+<g id="edge146" class="edge" data-name="Servo Horn ASSY-&gt;Hexagon Socket Head Cap Screw ISO 4762 - M2 x 6 Steel 4.6 Black">
+
+<path fill="none" stroke="black" d="M4097.55,-602.68C4104.37,-599.61 4111.52,-596.57 4118.34,-594 4283.37,-531.86 4481.69,-477.94 4598.19,-448.3" style=""/>
+<polygon fill="black" stroke="black" points="4598.9,-451.73 4607.73,-445.88 4597.18,-444.94 4598.9,-451.73" style=""/>
+</g>
+<!-- .1875 Ball Stud .25in -->
+<g id="node79" class="node" pointer-events="visible" data-name=".1875 Ball Stud .25in">
+
+<ellipse fill="none" stroke="black" cx="4923.34" cy="-423" rx="52.67" ry="27" style=""/>
+<text text-anchor="middle" x="4923.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">.1875 Ball Stud .25in</text>
+</g>
+<!-- Servo Horn ASSY&#45;&gt;.1875 Ball Stud .25in -->
+<g id="edge148" class="edge" data-name="Servo Horn ASSY-&gt;.1875 Ball Stud .25in">
+
+<path fill="none" stroke="black" d="M4097.07,-602.29C4104,-599.22 4111.31,-596.28 4118.34,-594 4438.36,-490.41 4539.43,-547.56 4861.34,-450 4865.56,-448.72 4869.88,-447.26 4874.18,-445.69" style=""/>
+<polygon fill="black" stroke="black" points="4875.28,-449.01 4883.35,-442.16 4872.76,-442.48 4875.28,-449.01" style=""/>
+</g>
+<!-- Ball Link Short -->
+<g id="node82" class="node" pointer-events="visible" data-name="Ball Link Short">
+
+<ellipse fill="none" stroke="black" cx="5033.34" cy="-423" rx="39.47" ry="27" style=""/>
+<text text-anchor="middle" x="5033.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Ball Link Short</text>
+</g>
+<!-- Seeting Servo Tie Rod&#45;&gt;Ball Link Short -->
+<g id="edge151" class="edge" data-name="Seeting Servo Tie Rod-&gt;Ball Link Short">
+
+<path fill="none" stroke="black" d="M5033.34,-593.57C5033.34,-559.57 5033.34,-500.31 5033.34,-461.62" style=""/>
+<polygon fill="black" stroke="black" points="5036.84,-461.84 5033.34,-451.84 5029.84,-461.84 5036.84,-461.84" style=""/>
+</g>
+<!-- Tie&#45;Rod 3 X 15mm -->
+<g id="node83" class="node" pointer-events="visible" data-name="Tie-Rod 3 X 15mm">
+
+<ellipse fill="none" stroke="black" cx="5139.34" cy="-423" rx="48.63" ry="27" style=""/>
+<text text-anchor="middle" x="5139.34" y="-420.3" font-family="Helvetica,sans-Serif" font-size="9.00" style="">Tie-Rod 3 X 15mm</text>
+</g>
+<!-- Seeting Servo Tie Rod&#45;&gt;Tie&#45;Rod 3 X 15mm -->
+<g id="edge153" class="edge" data-name="Seeting Servo Tie Rod-&gt;Tie-Rod 3 X 15mm">
+
+<path fill="none" stroke="black" d="M5047.2,-594.38C5065.9,-559.8 5099.29,-498.06 5120.33,-459.16" style=""/>
+<polygon fill="black" stroke="black" points="5123.25,-461.11 5124.93,-450.65 5117.1,-457.78 5123.25,-461.11" style=""/>
+</g>
+</g>
+</svg>

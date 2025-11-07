@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Hide connection handles (dots) on nodes */
+.react-flow__handle {
+  display: none !important;
+}
+
+/* Ensure React Flow canvas is interactive */
+.react-flow {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.react-flow__viewport {
+  pointer-events: auto !important;
+}
+
+.react-flow__pane {
+  cursor: grab;
+  pointer-events: auto !important;
+}
+
+.react-flow__pane:active {
+  cursor: grabbing;
+}
+
+.react-flow__renderer {
+  pointer-events: auto !important;
+}
+
+.react-flow__background {
+  pointer-events: none;
+}
+
