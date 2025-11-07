@@ -15,6 +15,8 @@ export const ELK_ALGORITHMS = {
   FORCE: 'force', // Force-directed layout
   STRESS: 'stress', // Stress-based layout
   MRTREE: 'mrtree', // Minimum spanning tree
+  RADIAL: 'radial', // Radial layout (concentric circles)
+  SPORE_OVERLAP: 'sporeOverlap', // Remove node overlaps
   DISCO: 'disco', // Disco layout
   BOX: 'box', // Box layout
   FIXED: 'fixed' // Fixed positions
@@ -128,5 +130,19 @@ export const LAYOUT_PRESETS = {
   tree: {
     'elk.algorithm': ELK_ALGORITHMS.MRTREE,
     'elk.spacing.nodeNode': '80'
+  },
+  mrtree: {
+    'elk.algorithm': ELK_ALGORITHMS.MRTREE,
+    'elk.direction': ELK_DIRECTIONS.DOWN,
+    'elk.spacing.nodeNode': '100'
+  },
+  radial: {
+    'elk.algorithm': ELK_ALGORITHMS.RADIAL,
+    'elk.spacing.nodeNode': '100',
+    'elk.radial.centerOnRoot': 'true'
+  },
+  sporeOverlap: {
+    'elk.algorithm': ELK_ALGORITHMS.SPORE_OVERLAP,
+    'elk.spacing.nodeNode': '100'
   }
 }

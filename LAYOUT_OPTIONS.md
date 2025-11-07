@@ -36,6 +36,25 @@ The application provides several preset layout configurations that can be select
 - **Spacing**: 80px between nodes
 - **Note**: Creates tree-like layouts
 
+### 6. **MR Tree**
+- **Algorithm**: `mrtree` (Minimum Spanning Tree)
+- **Direction**: `DOWN` (top to bottom)
+- **Best for**: Tree structures with explicit direction control
+- **Spacing**: 100px between nodes
+- **Note**: Similar to Tree layout but with different spacing and explicit direction setting
+
+### 7. **Radial**
+- **Algorithm**: `radial`
+- **Best for**: Hierarchical structures, organizational charts, network topologies
+- **Spacing**: 100px between nodes
+- **Note**: Arranges nodes in concentric circles around a central root node, creating a radial tree visualization
+
+### 8. **Remove Overlaps (Spore Overlap)**
+- **Algorithm**: `sporeOverlap`
+- **Best for**: Post-processing existing layouts to remove node overlaps
+- **Spacing**: 100px between nodes
+- **Note**: Typically used as a post-processing step to refine layouts by removing overlapping nodes. Can be applied after other layout algorithms to ensure no nodes overlap.
+
 ## ELK Algorithm Reference
 
 ELK supports many algorithms. The most commonly used are:
@@ -46,6 +65,8 @@ ELK supports many algorithms. The most commonly used are:
 | `force` | Force-directed layout | General graphs, networks |
 | `stress` | Stress-minimization layout | Compact layouts |
 | `mrtree` | Minimum spanning tree | Tree structures |
+| `radial` | Radial layout | Hierarchical structures, concentric circles |
+| `sporeOverlap` | Remove node overlaps | Post-processing to eliminate overlaps |
 | `disco` | Disco layout | Circular arrangements |
 | `box` | Box layout | Rectangular arrangements |
 | `fixed` | Fixed positions | Manual positioning |

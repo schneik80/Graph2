@@ -37,10 +37,17 @@ code {
 .react-flow__pane {
   cursor: grab;
   pointer-events: auto !important;
+  touch-action: none;
 }
 
 .react-flow__pane:active {
   cursor: grabbing;
+}
+
+/* Ensure wheel events work for zooming */
+.react-flow__pane,
+.react-flow__viewport {
+  -webkit-overflow-scrolling: touch;
 }
 
 .react-flow__renderer {

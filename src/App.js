@@ -145,8 +145,8 @@ function App () {
         panOnDrag={true}
         zoomOnScroll={true}
         zoomOnPinch={true}
+        zoomActivationKeyCode={null}
         panOnScroll={false}
-        preventScrolling={false}
         defaultViewport={{ x: 0, y: 0, zoom: 1 }}
       >
         <Background />
@@ -272,6 +272,64 @@ function App () {
               }}
             >
               Tree
+            </button>
+            <button
+              onClick={e => {
+                e.stopPropagation()
+                handleLayoutChange('mrtree')
+              }}
+              style={{
+                padding: '8px 12px',
+                border:
+                  currentLayout === 'mrtree'
+                    ? '2px solid #007bff'
+                    : '1px solid #ccc',
+                borderRadius: '4px',
+                background: currentLayout === 'mrtree' ? '#e7f3ff' : 'white',
+                cursor: 'pointer',
+                pointerEvents: 'auto'
+              }}
+            >
+              MR Tree
+            </button>
+            <button
+              onClick={e => {
+                e.stopPropagation()
+                handleLayoutChange('radial')
+              }}
+              style={{
+                padding: '8px 12px',
+                border:
+                  currentLayout === 'radial'
+                    ? '2px solid #007bff'
+                    : '1px solid #ccc',
+                borderRadius: '4px',
+                background: currentLayout === 'radial' ? '#e7f3ff' : 'white',
+                cursor: 'pointer',
+                pointerEvents: 'auto'
+              }}
+            >
+              Radial
+            </button>
+            <button
+              onClick={e => {
+                e.stopPropagation()
+                handleLayoutChange('sporeOverlap')
+              }}
+              style={{
+                padding: '8px 12px',
+                border:
+                  currentLayout === 'sporeOverlap'
+                    ? '2px solid #007bff'
+                    : '1px solid #ccc',
+                borderRadius: '4px',
+                background:
+                  currentLayout === 'sporeOverlap' ? '#e7f3ff' : 'white',
+                cursor: 'pointer',
+                pointerEvents: 'auto'
+              }}
+            >
+              Remove Overlaps
             </button>
           </div>
         </Panel>
